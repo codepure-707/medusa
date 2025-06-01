@@ -81,7 +81,7 @@
     "@medusajs/event-bus-redis": "2.7.1",
     "@medusajs/file": "2.7.1",
     "@medusajs/file-local": "2.7.1",
-    "@medusajs/file-s3": "2.7.1",
+    "@medusajs/file-s3": "0.0.2",
     "@medusajs/fulfillment": "2.7.1",
     "@medusajs/fulfillment-manual": "2.7.1",
     "@medusajs/index": "2.7.1",
