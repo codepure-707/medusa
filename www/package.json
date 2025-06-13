@@ -25,7 +25,7 @@
     "eslint": "^9.13.0",
     "postcss": "8.4.27",
     "prettier": "^3.3.3",
-    "tailwindcss": "3.3.3",
+    "tailwindcss": "3.4.15",
     "tsconfig": "*",
     "turbo": "latest"
   },
