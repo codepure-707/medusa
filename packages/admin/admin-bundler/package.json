@@ -27,10 +27,10 @@
   "dependencies": {
     "@medusajs/admin-shared": "2.7.1",
     "@medusajs/admin-vite-plugin": "2.7.1",
-    "@medusajs/dashboard": "2.7.1",
+    "@medusajs/dashboard": "0.0.1",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.16",
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "express": "^4.21.0",
     "get-port": "^5.1.1",
     "glob": "^10.3.10",
