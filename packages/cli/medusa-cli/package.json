@@ -58,7 +58,7 @@
     "fs-extra": "^10.0.0",
     "glob": "^10.3.10",
     "hosted-git-info": "^4.0.2",
-    "inquirer": "^8.0.0",
+    "inquirer": "^8.2.7",
     "is-valid-path": "^0.1.1",
     "meant": "^1.0.3",
     "ora": "^5.4.1",
