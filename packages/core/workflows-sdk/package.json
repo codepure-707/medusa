@@ -42,10 +42,10 @@
     "zod": "3.22.4"
   },
   "dependencies": {
-    "@medusajs/modules-sdk": "2.7.1",
-    "@medusajs/orchestration": "2.7.1",
-    "@medusajs/types": "2.7.1",
-    "@medusajs/utils": "2.7.1",
+    "@medusajs/modules-sdk": "0.0.1",
+    "@medusajs/orchestration": "2.0.0",
+    "@medusajs/types": "0.0.1",
+    "@medusajs/utils": "0.0.1",
     "ulid": "^2.3.0"
   },
   "peerDependencies": {
