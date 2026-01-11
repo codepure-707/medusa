@@ -65,7 +65,7 @@
   "dependencies": {
     "@inquirer/checkbox": "^2.3.11",
     "@inquirer/input": "^2.2.9",
-    "@medusajs/admin-bundler": "2.7.1",
+    "@medusajs/admin-bundler": "0.0.0",
     "@medusajs/api-key": "2.7.1",
     "@medusajs/auth": "2.7.1",
     "@medusajs/auth-emailpass": "2.7.1",
